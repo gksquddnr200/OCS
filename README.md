@@ -36,7 +36,7 @@
 
 
 ## 구현 이미지
-</br>
+
 **메인페이지**
 <br/>
 <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/57342158/200850743-2d5512e1-6356-4766-9d19-72e35903ffde.png">
