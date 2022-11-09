@@ -35,5 +35,5 @@ Flutter Project
 ![image](https://user-images.githubusercontent.com/57342158/200850743-2d5512e1-6356-4766-9d19-72e35903ffde.png)
 
 **지점별 총액/건수**
-<img width="200" height="400 src: "![image]https://user-images.githubusercontent.com/57342158/200851261-09355b9b-5f24-4bf6-bd37-f14c5ffca4a2.png"/>
+<img width="200" height="400 src="https://user-images.githubusercontent.com/57342158/200851261-09355b9b-5f24-4bf6-bd37-f14c5ffca4a2.png">
 ![image](https://user-images.githubusercontent.com/57342158/200851864-44870a5b-2e6e-46cd-b46c-77b9601e0264.png)
