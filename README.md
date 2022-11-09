@@ -1,6 +1,7 @@
 # OCS(Online Chart Service)
 **Flutter Project**
-
+(주의! 본 프로젝트에 나와있는 수치는 임의의 수치입니다. 그렇지만 혼동을 줄 수 있다 판단하여 모자이크 처리 하였습니다.)
+ 
 ![image](https://user-images.githubusercontent.com/57342158/200855335-d5fc63ed-230e-4ab9-8282-02cf4e2aa804.png)
 
 **프로젝트 개요**
