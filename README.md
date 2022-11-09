@@ -1,7 +1,7 @@
 # OCS(Online Chart Service)
-Flutter Project
+**Flutter Project**
 
-![OCS 화면](https://user-images.githubusercontent.com/57342158/200847512-0cb933ff-171e-4e06-9b0d-6a75ea6cb92e.png)
+![image](https://user-images.githubusercontent.com/57342158/200855335-d5fc63ed-230e-4ab9-8282-02cf4e2aa804.png)
 
 **프로젝트 개요**
 본 프로젝트는 고객의 업무 효율을 증대시키기 위해 휴대용 단말에서 계수 현황을 조회할 수 있도록 기획한 프로젝트입니다.
