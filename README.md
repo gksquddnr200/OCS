@@ -32,9 +32,16 @@ Flutter Project
 ## 구현 이미지
 
 **메인페이지**
-![image](https://user-images.githubusercontent.com/57342158/200850743-2d5512e1-6356-4766-9d19-72e35903ffde.png)
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/57342158/200850743-2d5512e1-6356-4766-9d19-72e35903ffde.png">
 
 **지점별 총액/건수**
 <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/57342158/200851261-09355b9b-5f24-4bf6-bd37-f14c5ffca4a2.png">
-<img width="200" height="400 src="https://user-images.githubusercontent.com/57342158/200851261-09355b9b-5f24-4bf6-bd37-f14c5ffca4a2.png">
-![image](https://user-images.githubusercontent.com/57342158/200851864-44870a5b-2e6e-46cd-b46c-77b9601e0264.png)
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/57342158/200851864-44870a5b-2e6e-46cd-b46c-77b9601e0264.png">
+
+**본부별 건수**
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/57342158/200853201-df99163b-40e6-42ce-99fb-41b72c3815fa.png">
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="![image](https://user-images.githubusercontent.com/57342158/200853596-e363e14a-011f-4515-b1ab-152a5589f575.png)">
+
+**본부별 완료**
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="![image](https://user-images.githubusercontent.com/57342158/200853917-d2bae76b-506d-4cfe-bd0b-3a2b2118028b.png)">
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="![image](https://user-images.githubusercontent.com/57342158/200854204-2d6a7d19-92dc-42ac-aee8-123952e611dc.png)">
